@@ -1,12 +1,15 @@
 This is a pretty simple yet effective script to play a video on loop on youtube or song on  soundcloud for example
 
-There is an exxplenation with # to prettymuch the script is doing 
+Every play will request a new Ip adress from the Tor Network
 
-The only libs you'll need are pyautogui  
+There is an explenation with # to pretty much everything the script is doing 
 
-open commandline run: 
+The only libs you'll need are Pyautogui, go get it open commandline run: 
 
-pip install PyAutoGUI
+     pip install PyAutoGUI
 
 
-the rest is pretty sepf explenatory in the example
+the rest is pretty self explenatory in the example
+
+
+thank´s I hope this is usefull :)
