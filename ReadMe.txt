@@ -13,6 +13,11 @@
 
 5- Make sure to adjust the script cordinates to your browser.
 
-6-MAKE SURE TOR IS CLOSED BEFORE YOU RUN THE SCRIPT.
+6- Make sure Tor is installed ('Daaahh')
 
-thank´s I hope this is usefull :) if you have any questions or issues let me know i'll gladly help.
+7- Open Tor and dissable the NoScript add-on from ad-on from the browser's menu 
+
+7-MAKE SURE TOR IS CLOSED BEFORE YOU RUN THE SCRIPT.
+
+Thank's I hope this is usefull :) 
+If you have any questions or issues let me know, I'll gladly help.
