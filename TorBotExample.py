@@ -3,9 +3,11 @@ import time
 import os
 import subprocess
 
-#desired amount of loops
+
 playtime = 30
+#desired amount of loops
 NumOfLoops = 2
+
 control = 0
 
 pyautogui.FAILSAFE = False
