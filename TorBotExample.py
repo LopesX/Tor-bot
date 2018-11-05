@@ -50,7 +50,7 @@ while True:
     pyautogui.hotkey('enter')
     time.sleep(5)
 
-
+#move to whatever coordinates your video shows up on serch and click on it
     pyautogui.moveTo(900, 900)
     pyautogui.click()
 
