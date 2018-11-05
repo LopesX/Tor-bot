@@ -8,7 +8,7 @@ playtime = 30
 NumOfLoops = 2
 control = 0
 
-pyautogui.FAILSAFE = True
+pyautogui.FAILSAFE = False
 
 #Clean desktop (Windows)
 
@@ -61,14 +61,10 @@ while True:
 #request new identtity on the Tor network 
     pyautogui.hotkey('ctrl', 'shift', 'u')
 
-     
-    
-
-
 #print loop number
     print('Loop nº', control)
 
-
+#Break loop when target NumOfLoops reached
     if control == NumOfLoops:
         os.system("taskkill /f /im  firefox.exe")
         print(control, 'number of loops done')
